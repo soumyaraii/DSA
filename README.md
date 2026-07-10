@@ -11,6 +11,7 @@
 | [0216-combination-sum-iii](https://github.com/soumyaraii/DSA/tree/master/0216-combination-sum-iii) |
 | [0875-koko-eating-bananas](https://github.com/soumyaraii/DSA/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/soumyaraii/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1472-design-browser-history](https://github.com/soumyaraii/DSA/tree/master/1472-design-browser-history) |
 ## Backtracking
 |  |
 | ------- |
@@ -49,6 +50,7 @@
 | [0328-odd-even-linked-list](https://github.com/soumyaraii/DSA/tree/master/0328-odd-even-linked-list) |
 | [0707-design-linked-list](https://github.com/soumyaraii/DSA/tree/master/0707-design-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/soumyaraii/DSA/tree/master/0876-middle-of-the-linked-list) |
+| [1472-design-browser-history](https://github.com/soumyaraii/DSA/tree/master/1472-design-browser-history) |
 ## Recursion
 |  |
 | ------- |
@@ -79,8 +81,18 @@
 | ------- |
 | [0143-reorder-list](https://github.com/soumyaraii/DSA/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/soumyaraii/DSA/tree/master/0234-palindrome-linked-list) |
+| [1472-design-browser-history](https://github.com/soumyaraii/DSA/tree/master/1472-design-browser-history) |
 ## Design
 |  |
 | ------- |
 | [0707-design-linked-list](https://github.com/soumyaraii/DSA/tree/master/0707-design-linked-list) |
+| [1472-design-browser-history](https://github.com/soumyaraii/DSA/tree/master/1472-design-browser-history) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [1472-design-browser-history](https://github.com/soumyaraii/DSA/tree/master/1472-design-browser-history) |
+## Data Stream
+|  |
+| ------- |
+| [1472-design-browser-history](https://github.com/soumyaraii/DSA/tree/master/1472-design-browser-history) |
 <!---LeetCode Topics End-->
