@@ -87,6 +87,7 @@
 | [0682-baseball-game](https://github.com/soumyaraii/DSA/tree/master/0682-baseball-game) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/soumyaraii/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1472-design-browser-history](https://github.com/soumyaraii/DSA/tree/master/1472-design-browser-history) |
+| [1544-make-the-string-great](https://github.com/soumyaraii/DSA/tree/master/1544-make-the-string-great) |
 ## Design
 |  |
 | ------- |
@@ -110,6 +111,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/soumyaraii/DSA/tree/master/0020-valid-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/soumyaraii/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1544-make-the-string-great](https://github.com/soumyaraii/DSA/tree/master/1544-make-the-string-great) |
 ## Simulation
 |  |
 | ------- |
