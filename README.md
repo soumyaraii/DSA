@@ -9,6 +9,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/soumyaraii/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/soumyaraii/DSA/tree/master/0162-find-peak-element) |
 | [0216-combination-sum-iii](https://github.com/soumyaraii/DSA/tree/master/0216-combination-sum-iii) |
+| [0682-baseball-game](https://github.com/soumyaraii/DSA/tree/master/0682-baseball-game) |
 | [0875-koko-eating-bananas](https://github.com/soumyaraii/DSA/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/soumyaraii/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1472-design-browser-history](https://github.com/soumyaraii/DSA/tree/master/1472-design-browser-history) |
@@ -83,6 +84,7 @@
 | [0020-valid-parentheses](https://github.com/soumyaraii/DSA/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/soumyaraii/DSA/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/soumyaraii/DSA/tree/master/0234-palindrome-linked-list) |
+| [0682-baseball-game](https://github.com/soumyaraii/DSA/tree/master/0682-baseball-game) |
 | [1472-design-browser-history](https://github.com/soumyaraii/DSA/tree/master/1472-design-browser-history) |
 ## Design
 |  |
@@ -106,4 +108,8 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/soumyaraii/DSA/tree/master/0020-valid-parentheses) |
+## Simulation
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/soumyaraii/DSA/tree/master/0682-baseball-game) |
 <!---LeetCode Topics End-->
