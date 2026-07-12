@@ -87,6 +87,7 @@
 | [0020-valid-parentheses](https://github.com/soumyaraii/DSA/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/soumyaraii/DSA/tree/master/0143-reorder-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/soumyaraii/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0155-min-stack](https://github.com/soumyaraii/DSA/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/soumyaraii/DSA/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/soumyaraii/DSA/tree/master/0394-decode-string) |
 | [0682-baseball-game](https://github.com/soumyaraii/DSA/tree/master/0682-baseball-game) |
@@ -97,6 +98,7 @@
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/soumyaraii/DSA/tree/master/0155-min-stack) |
 | [0707-design-linked-list](https://github.com/soumyaraii/DSA/tree/master/0707-design-linked-list) |
 | [1472-design-browser-history](https://github.com/soumyaraii/DSA/tree/master/1472-design-browser-history) |
 ## Doubly-Linked List
