@@ -10,6 +10,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/soumyaraii/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/soumyaraii/DSA/tree/master/0162-find-peak-element) |
 | [0216-combination-sum-iii](https://github.com/soumyaraii/DSA/tree/master/0216-combination-sum-iii) |
+| [0496-next-greater-element-i](https://github.com/soumyaraii/DSA/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/soumyaraii/DSA/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/soumyaraii/DSA/tree/master/0735-asteroid-collision) |
 | [0875-koko-eating-bananas](https://github.com/soumyaraii/DSA/tree/master/0875-koko-eating-bananas) |
@@ -82,6 +83,7 @@
 | ------- |
 | [0141-linked-list-cycle](https://github.com/soumyaraii/DSA/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/soumyaraii/DSA/tree/master/0160-intersection-of-two-linked-lists) |
+| [0496-next-greater-element-i](https://github.com/soumyaraii/DSA/tree/master/0496-next-greater-element-i) |
 ## Stack
 |  |
 | ------- |
@@ -91,6 +93,7 @@
 | [0155-min-stack](https://github.com/soumyaraii/DSA/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/soumyaraii/DSA/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/soumyaraii/DSA/tree/master/0394-decode-string) |
+| [0496-next-greater-element-i](https://github.com/soumyaraii/DSA/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/soumyaraii/DSA/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/soumyaraii/DSA/tree/master/0735-asteroid-collision) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/soumyaraii/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -130,4 +133,8 @@
 | [0682-baseball-game](https://github.com/soumyaraii/DSA/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/soumyaraii/DSA/tree/master/0735-asteroid-collision) |
 | [2390-removing-stars-from-a-string](https://github.com/soumyaraii/DSA/tree/master/2390-removing-stars-from-a-string) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/soumyaraii/DSA/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
