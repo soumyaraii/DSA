@@ -14,6 +14,7 @@
 | [0503-next-greater-element-ii](https://github.com/soumyaraii/DSA/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/soumyaraii/DSA/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/soumyaraii/DSA/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/soumyaraii/DSA/tree/master/0739-daily-temperatures) |
 | [0875-koko-eating-bananas](https://github.com/soumyaraii/DSA/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/soumyaraii/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1472-design-browser-history](https://github.com/soumyaraii/DSA/tree/master/1472-design-browser-history) |
@@ -98,6 +99,7 @@
 | [0503-next-greater-element-ii](https://github.com/soumyaraii/DSA/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/soumyaraii/DSA/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/soumyaraii/DSA/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/soumyaraii/DSA/tree/master/0739-daily-temperatures) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/soumyaraii/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1472-design-browser-history](https://github.com/soumyaraii/DSA/tree/master/1472-design-browser-history) |
 | [1544-make-the-string-great](https://github.com/soumyaraii/DSA/tree/master/1544-make-the-string-great) |
@@ -140,4 +142,5 @@
 | ------- |
 | [0496-next-greater-element-i](https://github.com/soumyaraii/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/soumyaraii/DSA/tree/master/0503-next-greater-element-ii) |
+| [0739-daily-temperatures](https://github.com/soumyaraii/DSA/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
