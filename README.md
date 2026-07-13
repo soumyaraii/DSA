@@ -11,6 +11,7 @@
 | [0162-find-peak-element](https://github.com/soumyaraii/DSA/tree/master/0162-find-peak-element) |
 | [0216-combination-sum-iii](https://github.com/soumyaraii/DSA/tree/master/0216-combination-sum-iii) |
 | [0496-next-greater-element-i](https://github.com/soumyaraii/DSA/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/soumyaraii/DSA/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/soumyaraii/DSA/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/soumyaraii/DSA/tree/master/0735-asteroid-collision) |
 | [0875-koko-eating-bananas](https://github.com/soumyaraii/DSA/tree/master/0875-koko-eating-bananas) |
@@ -94,6 +95,7 @@
 | [0234-palindrome-linked-list](https://github.com/soumyaraii/DSA/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/soumyaraii/DSA/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/soumyaraii/DSA/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/soumyaraii/DSA/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/soumyaraii/DSA/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/soumyaraii/DSA/tree/master/0735-asteroid-collision) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/soumyaraii/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -137,4 +139,5 @@
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/soumyaraii/DSA/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/soumyaraii/DSA/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
