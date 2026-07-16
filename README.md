@@ -105,6 +105,7 @@
 | [0682-baseball-game](https://github.com/soumyaraii/DSA/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/soumyaraii/DSA/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/soumyaraii/DSA/tree/master/0739-daily-temperatures) |
+| [0880-decoded-string-at-index](https://github.com/soumyaraii/DSA/tree/master/0880-decoded-string-at-index) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/soumyaraii/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1472-design-browser-history](https://github.com/soumyaraii/DSA/tree/master/1472-design-browser-history) |
 | [1544-make-the-string-great](https://github.com/soumyaraii/DSA/tree/master/1544-make-the-string-great) |
@@ -134,6 +135,7 @@
 | [0020-valid-parentheses](https://github.com/soumyaraii/DSA/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/soumyaraii/DSA/tree/master/0071-simplify-path) |
 | [0394-decode-string](https://github.com/soumyaraii/DSA/tree/master/0394-decode-string) |
+| [0880-decoded-string-at-index](https://github.com/soumyaraii/DSA/tree/master/0880-decoded-string-at-index) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/soumyaraii/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1544-make-the-string-great](https://github.com/soumyaraii/DSA/tree/master/1544-make-the-string-great) |
 | [2390-removing-stars-from-a-string](https://github.com/soumyaraii/DSA/tree/master/2390-removing-stars-from-a-string) |
