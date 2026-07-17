@@ -106,6 +106,7 @@
 | [0735-asteroid-collision](https://github.com/soumyaraii/DSA/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/soumyaraii/DSA/tree/master/0739-daily-temperatures) |
 | [0880-decoded-string-at-index](https://github.com/soumyaraii/DSA/tree/master/0880-decoded-string-at-index) |
+| [0901-online-stock-span](https://github.com/soumyaraii/DSA/tree/master/0901-online-stock-span) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/soumyaraii/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1472-design-browser-history](https://github.com/soumyaraii/DSA/tree/master/1472-design-browser-history) |
 | [1544-make-the-string-great](https://github.com/soumyaraii/DSA/tree/master/1544-make-the-string-great) |
@@ -115,6 +116,7 @@
 | ------- |
 | [0155-min-stack](https://github.com/soumyaraii/DSA/tree/master/0155-min-stack) |
 | [0707-design-linked-list](https://github.com/soumyaraii/DSA/tree/master/0707-design-linked-list) |
+| [0901-online-stock-span](https://github.com/soumyaraii/DSA/tree/master/0901-online-stock-span) |
 | [1472-design-browser-history](https://github.com/soumyaraii/DSA/tree/master/1472-design-browser-history) |
 ## Doubly-Linked List
 |  |
@@ -124,6 +126,7 @@
 ## Data Stream
 |  |
 | ------- |
+| [0901-online-stock-span](https://github.com/soumyaraii/DSA/tree/master/0901-online-stock-span) |
 | [1472-design-browser-history](https://github.com/soumyaraii/DSA/tree/master/1472-design-browser-history) |
 ## Depth-First Search
 |  |
@@ -152,6 +155,7 @@
 | [0496-next-greater-element-i](https://github.com/soumyaraii/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/soumyaraii/DSA/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/soumyaraii/DSA/tree/master/0739-daily-temperatures) |
+| [0901-online-stock-span](https://github.com/soumyaraii/DSA/tree/master/0901-online-stock-span) |
 ## Sorting
 |  |
 | ------- |
