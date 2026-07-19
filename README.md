@@ -121,6 +121,7 @@
 | [0232-implement-queue-using-stacks](https://github.com/soumyaraii/DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0707-design-linked-list](https://github.com/soumyaraii/DSA/tree/master/0707-design-linked-list) |
 | [0901-online-stock-span](https://github.com/soumyaraii/DSA/tree/master/0901-online-stock-span) |
+| [0933-number-of-recent-calls](https://github.com/soumyaraii/DSA/tree/master/0933-number-of-recent-calls) |
 | [1472-design-browser-history](https://github.com/soumyaraii/DSA/tree/master/1472-design-browser-history) |
 ## Doubly-Linked List
 |  |
@@ -131,6 +132,7 @@
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/soumyaraii/DSA/tree/master/0901-online-stock-span) |
+| [0933-number-of-recent-calls](https://github.com/soumyaraii/DSA/tree/master/0933-number-of-recent-calls) |
 | [1472-design-browser-history](https://github.com/soumyaraii/DSA/tree/master/1472-design-browser-history) |
 ## Depth-First Search
 |  |
@@ -169,4 +171,5 @@
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/soumyaraii/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/soumyaraii/DSA/tree/master/0232-implement-queue-using-stacks) |
+| [0933-number-of-recent-calls](https://github.com/soumyaraii/DSA/tree/master/0933-number-of-recent-calls) |
 <!---LeetCode Topics End-->
