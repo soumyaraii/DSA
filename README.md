@@ -98,6 +98,7 @@
 | [0143-reorder-list](https://github.com/soumyaraii/DSA/tree/master/0143-reorder-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/soumyaraii/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/soumyaraii/DSA/tree/master/0155-min-stack) |
+| [0232-implement-queue-using-stacks](https://github.com/soumyaraii/DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/soumyaraii/DSA/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/soumyaraii/DSA/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/soumyaraii/DSA/tree/master/0496-next-greater-element-i) |
@@ -115,6 +116,7 @@
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/soumyaraii/DSA/tree/master/0155-min-stack) |
+| [0232-implement-queue-using-stacks](https://github.com/soumyaraii/DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0707-design-linked-list](https://github.com/soumyaraii/DSA/tree/master/0707-design-linked-list) |
 | [0901-online-stock-span](https://github.com/soumyaraii/DSA/tree/master/0901-online-stock-span) |
 | [1472-design-browser-history](https://github.com/soumyaraii/DSA/tree/master/1472-design-browser-history) |
@@ -160,4 +162,8 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/soumyaraii/DSA/tree/master/0075-sort-colors) |
+## Queue
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/soumyaraii/DSA/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
