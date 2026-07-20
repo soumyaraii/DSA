@@ -21,6 +21,7 @@
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/soumyaraii/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1472-design-browser-history](https://github.com/soumyaraii/DSA/tree/master/1472-design-browser-history) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/soumyaraii/DSA/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [2073-time-needed-to-buy-tickets](https://github.com/soumyaraii/DSA/tree/master/2073-time-needed-to-buy-tickets) |
 ## Backtracking
 |  |
 | ------- |
@@ -156,6 +157,7 @@
 | [0682-baseball-game](https://github.com/soumyaraii/DSA/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/soumyaraii/DSA/tree/master/0735-asteroid-collision) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/soumyaraii/DSA/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [2073-time-needed-to-buy-tickets](https://github.com/soumyaraii/DSA/tree/master/2073-time-needed-to-buy-tickets) |
 | [2390-removing-stars-from-a-string](https://github.com/soumyaraii/DSA/tree/master/2390-removing-stars-from-a-string) |
 ## Monotonic Stack
 |  |
@@ -176,4 +178,5 @@
 | [0232-implement-queue-using-stacks](https://github.com/soumyaraii/DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0933-number-of-recent-calls](https://github.com/soumyaraii/DSA/tree/master/0933-number-of-recent-calls) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/soumyaraii/DSA/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [2073-time-needed-to-buy-tickets](https://github.com/soumyaraii/DSA/tree/master/2073-time-needed-to-buy-tickets) |
 <!---LeetCode Topics End-->
