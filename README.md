@@ -14,6 +14,7 @@
 | [0216-combination-sum-iii](https://github.com/soumyaraii/DSA/tree/master/0216-combination-sum-iii) |
 | [0496-next-greater-element-i](https://github.com/soumyaraii/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/soumyaraii/DSA/tree/master/0503-next-greater-element-ii) |
+| [0622-design-circular-queue](https://github.com/soumyaraii/DSA/tree/master/0622-design-circular-queue) |
 | [0682-baseball-game](https://github.com/soumyaraii/DSA/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/soumyaraii/DSA/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/soumyaraii/DSA/tree/master/0739-daily-temperatures) |
@@ -61,6 +62,7 @@
 | [0234-palindrome-linked-list](https://github.com/soumyaraii/DSA/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/soumyaraii/DSA/tree/master/0328-odd-even-linked-list) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/soumyaraii/DSA/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+| [0622-design-circular-queue](https://github.com/soumyaraii/DSA/tree/master/0622-design-circular-queue) |
 | [0707-design-linked-list](https://github.com/soumyaraii/DSA/tree/master/0707-design-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/soumyaraii/DSA/tree/master/0876-middle-of-the-linked-list) |
 | [1472-design-browser-history](https://github.com/soumyaraii/DSA/tree/master/1472-design-browser-history) |
@@ -123,6 +125,7 @@
 | [0155-min-stack](https://github.com/soumyaraii/DSA/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/soumyaraii/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/soumyaraii/DSA/tree/master/0232-implement-queue-using-stacks) |
+| [0622-design-circular-queue](https://github.com/soumyaraii/DSA/tree/master/0622-design-circular-queue) |
 | [0707-design-linked-list](https://github.com/soumyaraii/DSA/tree/master/0707-design-linked-list) |
 | [0901-online-stock-span](https://github.com/soumyaraii/DSA/tree/master/0901-online-stock-span) |
 | [0933-number-of-recent-calls](https://github.com/soumyaraii/DSA/tree/master/0933-number-of-recent-calls) |
@@ -179,6 +182,7 @@
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/soumyaraii/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/soumyaraii/DSA/tree/master/0232-implement-queue-using-stacks) |
+| [0622-design-circular-queue](https://github.com/soumyaraii/DSA/tree/master/0622-design-circular-queue) |
 | [0933-number-of-recent-calls](https://github.com/soumyaraii/DSA/tree/master/0933-number-of-recent-calls) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/soumyaraii/DSA/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/soumyaraii/DSA/tree/master/1700-number-of-students-unable-to-eat-lunch) |
