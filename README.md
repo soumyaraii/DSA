@@ -20,6 +20,7 @@
 | [0682-baseball-game](https://github.com/soumyaraii/DSA/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/soumyaraii/DSA/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/soumyaraii/DSA/tree/master/0739-daily-temperatures) |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/soumyaraii/DSA/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0875-koko-eating-bananas](https://github.com/soumyaraii/DSA/tree/master/0875-koko-eating-bananas) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/soumyaraii/DSA/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/soumyaraii/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -44,6 +45,7 @@
 | [0069-sqrtx](https://github.com/soumyaraii/DSA/tree/master/0069-sqrtx) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/soumyaraii/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/soumyaraii/DSA/tree/master/0162-find-peak-element) |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/soumyaraii/DSA/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0875-koko-eating-bananas](https://github.com/soumyaraii/DSA/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/soumyaraii/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 ## Linked List
@@ -189,6 +191,7 @@
 | [0239-sliding-window-maximum](https://github.com/soumyaraii/DSA/tree/master/0239-sliding-window-maximum) |
 | [0622-design-circular-queue](https://github.com/soumyaraii/DSA/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/soumyaraii/DSA/tree/master/0641-design-circular-deque) |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/soumyaraii/DSA/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0933-number-of-recent-calls](https://github.com/soumyaraii/DSA/tree/master/0933-number-of-recent-calls) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/soumyaraii/DSA/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/soumyaraii/DSA/tree/master/1700-number-of-students-unable-to-eat-lunch) |
@@ -197,12 +200,19 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/soumyaraii/DSA/tree/master/0239-sliding-window-maximum) |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/soumyaraii/DSA/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/soumyaraii/DSA/tree/master/0239-sliding-window-maximum) |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/soumyaraii/DSA/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 ## Monotonic Queue
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/soumyaraii/DSA/tree/master/0239-sliding-window-maximum) |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/soumyaraii/DSA/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
+## Prefix Sum
+|  |
+| ------- |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/soumyaraii/DSA/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 <!---LeetCode Topics End-->
