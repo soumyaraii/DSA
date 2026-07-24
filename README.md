@@ -106,6 +106,7 @@
 | [0020-valid-parentheses](https://github.com/soumyaraii/DSA/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/soumyaraii/DSA/tree/master/0071-simplify-path) |
 | [0084-largest-rectangle-in-histogram](https://github.com/soumyaraii/DSA/tree/master/0084-largest-rectangle-in-histogram) |
+| [0094-binary-tree-inorder-traversal](https://github.com/soumyaraii/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/soumyaraii/DSA/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/soumyaraii/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/soumyaraii/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -152,6 +153,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/soumyaraii/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/soumyaraii/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/soumyaraii/DSA/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 ## String
@@ -229,9 +231,11 @@
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/soumyaraii/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/soumyaraii/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/soumyaraii/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/soumyaraii/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
