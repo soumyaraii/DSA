@@ -46,16 +46,20 @@ public:
     // }
 
     int countNodes(TreeNode* root){
-        if(root==NULL) return 0;
+        if(root==NULL){
+            return 0;
+        }
         int lh=height(root->left);
         int rh=height(root->right);
         if(lh==rh){
             return (1<<lh)+countNodes(root->right);
+            //1<<lh==2**h
         }
         else{
             return 1+countNodes(root->left)+countNodes(root->right);
         }
       }
+      
       int height(TreeNode* node){
         int h=0;
         while(node){
