@@ -12,21 +12,19 @@
 class Solution {
 public:
     TreeNode* searchBST(TreeNode* root, int val) {
-        while (root!=NULL && root->val!=val) {
-
-        // If the current node's value is greater than the target value,
-        // move to the left subtree to continue the search.
-            if (root->val>val)
-                root = root->left;
-
-            // If the current node's value is lesser than the target value,
-            // move to the right subtree to continue the search.
-            else
-                root = root->right;
+        if(root==NULL){
+            return NULL;
+        }
+        if(root->val==val){
+            return root;
+        }
+        else if(root->val>val){
+            return searchBST(root->left, val);
+        }
+        else{
+            return searchBST(root->right, val);
         }
 
-    // Return the current node (which contains the target value) if found,
-    // or NULL if the target value is not present in the BST.
-    return root;        
+        return NULL;
     }
 };
