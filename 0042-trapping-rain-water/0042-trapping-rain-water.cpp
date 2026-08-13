@@ -10,23 +10,23 @@ public:
         int ans=0;
 
         while (left<=right){
-            if (height[left] <= height[right]){
-                if(height[left]<leftmax){
-                    ans+=leftmax-height[left];
+            if(height[left]<=height[right]){
+                if(height[left]>=leftmax){
+                    leftmax=height[left];
                 }
                 else{
-                    leftmax=height[left];
+                    ans+=leftmax-height[left];
                 }
 
                 left++;
             }
 
             else{
-                if (height[right] >= rightmax) {
-                    rightmax=height[right];
+                 if (height[right] >= rightmax) {
+                    rightmax = height[right];
                 }
                 else {
-                    ans += rightmax-height[right];
+                    ans += rightmax - height[right];
                 }
 
                 right--;
