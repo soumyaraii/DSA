@@ -24,6 +24,7 @@
 | [0622-design-circular-queue](https://github.com/soumyaraii/DSA/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/soumyaraii/DSA/tree/master/0641-design-circular-deque) |
 | [0682-baseball-game](https://github.com/soumyaraii/DSA/tree/master/0682-baseball-game) |
+| [0692-top-k-frequent-words](https://github.com/soumyaraii/DSA/tree/master/0692-top-k-frequent-words) |
 | [0735-asteroid-collision](https://github.com/soumyaraii/DSA/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/soumyaraii/DSA/tree/master/0739-daily-temperatures) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/soumyaraii/DSA/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
@@ -114,6 +115,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/soumyaraii/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0496-next-greater-element-i](https://github.com/soumyaraii/DSA/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/soumyaraii/DSA/tree/master/0560-subarray-sum-equals-k) |
+| [0692-top-k-frequent-words](https://github.com/soumyaraii/DSA/tree/master/0692-top-k-frequent-words) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/soumyaraii/DSA/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 ## Stack
 |  |
@@ -188,6 +190,7 @@
 | [0020-valid-parentheses](https://github.com/soumyaraii/DSA/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/soumyaraii/DSA/tree/master/0071-simplify-path) |
 | [0394-decode-string](https://github.com/soumyaraii/DSA/tree/master/0394-decode-string) |
+| [0692-top-k-frequent-words](https://github.com/soumyaraii/DSA/tree/master/0692-top-k-frequent-words) |
 | [0880-decoded-string-at-index](https://github.com/soumyaraii/DSA/tree/master/0880-decoded-string-at-index) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/soumyaraii/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1544-make-the-string-great](https://github.com/soumyaraii/DSA/tree/master/1544-make-the-string-great) |
@@ -216,6 +219,7 @@
 | [0075-sort-colors](https://github.com/soumyaraii/DSA/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/soumyaraii/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0475-heaters](https://github.com/soumyaraii/DSA/tree/master/0475-heaters) |
+| [0692-top-k-frequent-words](https://github.com/soumyaraii/DSA/tree/master/0692-top-k-frequent-words) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/soumyaraii/DSA/tree/master/0950-reveal-cards-in-increasing-order) |
 ## Queue
 |  |
@@ -243,6 +247,7 @@
 | [0023-merge-k-sorted-lists](https://github.com/soumyaraii/DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/soumyaraii/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/soumyaraii/DSA/tree/master/0239-sliding-window-maximum) |
+| [0692-top-k-frequent-words](https://github.com/soumyaraii/DSA/tree/master/0692-top-k-frequent-words) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/soumyaraii/DSA/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/soumyaraii/DSA/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 ## Monotonic Queue
@@ -344,4 +349,16 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/soumyaraii/DSA/tree/master/0023-merge-k-sorted-lists) |
+## Trie
+|  |
+| ------- |
+| [0692-top-k-frequent-words](https://github.com/soumyaraii/DSA/tree/master/0692-top-k-frequent-words) |
+## Bucket Sort
+|  |
+| ------- |
+| [0692-top-k-frequent-words](https://github.com/soumyaraii/DSA/tree/master/0692-top-k-frequent-words) |
+## Counting
+|  |
+| ------- |
+| [0692-top-k-frequent-words](https://github.com/soumyaraii/DSA/tree/master/0692-top-k-frequent-words) |
 <!---LeetCode Topics End-->
