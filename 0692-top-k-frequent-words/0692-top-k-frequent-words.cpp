@@ -1,5 +1,11 @@
 class Solution {
 public:
+    static bool cmp(pair<string,int> &a, pair<string,int> &b){
+        if(a.second != b.second)
+            return a.second > b.second;
+
+        return a.first < b.first;
+    }
     vector<string> topKFrequent(vector<string>& words, int k) {
         sort(words.begin(), words.end());
 
@@ -20,13 +26,7 @@ public:
 
         freqarr.push_back({words.back(), freq});
 
-        sort(freqarr.begin(), freqarr.end(), [](auto &a, auto &b) {
-
-            if(a.second != b.second)
-                return a.second > b.second;
-
-            return a.first < b.first;
-        });
+        sort(freqarr.begin(), freqarr.end(), cmp);
 
         vector<string> ans;
 
