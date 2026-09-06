@@ -17,6 +17,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/soumyaraii/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/soumyaraii/DSA/tree/master/0216-combination-sum-iii) |
 | [0239-sliding-window-maximum](https://github.com/soumyaraii/DSA/tree/master/0239-sliding-window-maximum) |
+| [0287-find-the-duplicate-number](https://github.com/soumyaraii/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/soumyaraii/DSA/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0475-heaters](https://github.com/soumyaraii/DSA/tree/master/0475-heaters) |
 | [0496-next-greater-element-i](https://github.com/soumyaraii/DSA/tree/master/0496-next-greater-element-i) |
@@ -57,6 +58,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/soumyaraii/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/soumyaraii/DSA/tree/master/0162-find-peak-element) |
 | [0222-count-complete-tree-nodes](https://github.com/soumyaraii/DSA/tree/master/0222-count-complete-tree-nodes) |
+| [0287-find-the-duplicate-number](https://github.com/soumyaraii/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0475-heaters](https://github.com/soumyaraii/DSA/tree/master/0475-heaters) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/soumyaraii/DSA/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0875-koko-eating-bananas](https://github.com/soumyaraii/DSA/tree/master/0875-koko-eating-bananas) |
@@ -108,6 +110,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/soumyaraii/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/soumyaraii/DSA/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/soumyaraii/DSA/tree/master/0234-palindrome-linked-list) |
+| [0287-find-the-duplicate-number](https://github.com/soumyaraii/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0475-heaters](https://github.com/soumyaraii/DSA/tree/master/0475-heaters) |
 | [0876-middle-of-the-linked-list](https://github.com/soumyaraii/DSA/tree/master/0876-middle-of-the-linked-list) |
 ## Hash Table
@@ -339,6 +342,7 @@
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/soumyaraii/DSA/tree/master/0222-count-complete-tree-nodes) |
+| [0287-find-the-duplicate-number](https://github.com/soumyaraii/DSA/tree/master/0287-find-the-duplicate-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -385,4 +389,9 @@
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/soumyaraii/DSA/tree/master/0202-happy-number) |
+| [0287-find-the-duplicate-number](https://github.com/soumyaraii/DSA/tree/master/0287-find-the-duplicate-number) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/soumyaraii/DSA/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
