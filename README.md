@@ -48,6 +48,7 @@
 | [0002-add-two-numbers](https://github.com/soumyaraii/DSA/tree/master/0002-add-two-numbers) |
 | [0069-sqrtx](https://github.com/soumyaraii/DSA/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/soumyaraii/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0202-happy-number](https://github.com/soumyaraii/DSA/tree/master/0202-happy-number) |
 ## Binary Search
 |  |
 | ------- |
@@ -105,6 +106,7 @@
 | [0141-linked-list-cycle](https://github.com/soumyaraii/DSA/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/soumyaraii/DSA/tree/master/0143-reorder-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/soumyaraii/DSA/tree/master/0160-intersection-of-two-linked-lists) |
+| [0202-happy-number](https://github.com/soumyaraii/DSA/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/soumyaraii/DSA/tree/master/0234-palindrome-linked-list) |
 | [0475-heaters](https://github.com/soumyaraii/DSA/tree/master/0475-heaters) |
 | [0876-middle-of-the-linked-list](https://github.com/soumyaraii/DSA/tree/master/0876-middle-of-the-linked-list) |
@@ -115,6 +117,7 @@
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/soumyaraii/DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0141-linked-list-cycle](https://github.com/soumyaraii/DSA/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/soumyaraii/DSA/tree/master/0160-intersection-of-two-linked-lists) |
+| [0202-happy-number](https://github.com/soumyaraii/DSA/tree/master/0202-happy-number) |
 | [0496-next-greater-element-i](https://github.com/soumyaraii/DSA/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/soumyaraii/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/soumyaraii/DSA/tree/master/0621-task-scheduler) |
@@ -378,4 +381,8 @@
 |  |
 | ------- |
 | [0621-task-scheduler](https://github.com/soumyaraii/DSA/tree/master/0621-task-scheduler) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/soumyaraii/DSA/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
