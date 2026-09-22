@@ -18,6 +18,7 @@
 | [0169-majority-element](https://github.com/soumyaraii/DSA/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/soumyaraii/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/soumyaraii/DSA/tree/master/0216-combination-sum-iii) |
+| [0229-majority-element-ii](https://github.com/soumyaraii/DSA/tree/master/0229-majority-element-ii) |
 | [0239-sliding-window-maximum](https://github.com/soumyaraii/DSA/tree/master/0239-sliding-window-maximum) |
 | [0287-find-the-duplicate-number](https://github.com/soumyaraii/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/soumyaraii/DSA/tree/master/0373-find-k-pairs-with-smallest-sums) |
@@ -126,6 +127,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/soumyaraii/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/soumyaraii/DSA/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/soumyaraii/DSA/tree/master/0202-happy-number) |
+| [0229-majority-element-ii](https://github.com/soumyaraii/DSA/tree/master/0229-majority-element-ii) |
 | [0496-next-greater-element-i](https://github.com/soumyaraii/DSA/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/soumyaraii/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/soumyaraii/DSA/tree/master/0621-task-scheduler) |
@@ -235,6 +237,7 @@
 | [0075-sort-colors](https://github.com/soumyaraii/DSA/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/soumyaraii/DSA/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/soumyaraii/DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0229-majority-element-ii](https://github.com/soumyaraii/DSA/tree/master/0229-majority-element-ii) |
 | [0475-heaters](https://github.com/soumyaraii/DSA/tree/master/0475-heaters) |
 | [0621-task-scheduler](https://github.com/soumyaraii/DSA/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/soumyaraii/DSA/tree/master/0692-top-k-frequent-words) |
@@ -387,6 +390,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/soumyaraii/DSA/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/soumyaraii/DSA/tree/master/0229-majority-element-ii) |
 | [0621-task-scheduler](https://github.com/soumyaraii/DSA/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/soumyaraii/DSA/tree/master/0692-top-k-frequent-words) |
 ## Greedy
@@ -406,4 +410,5 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/soumyaraii/DSA/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/soumyaraii/DSA/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
