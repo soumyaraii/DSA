@@ -15,6 +15,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/soumyaraii/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/soumyaraii/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/soumyaraii/DSA/tree/master/0162-find-peak-element) |
+| [0169-majority-element](https://github.com/soumyaraii/DSA/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/soumyaraii/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/soumyaraii/DSA/tree/master/0216-combination-sum-iii) |
 | [0239-sliding-window-maximum](https://github.com/soumyaraii/DSA/tree/master/0239-sliding-window-maximum) |
@@ -123,6 +124,7 @@
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/soumyaraii/DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0141-linked-list-cycle](https://github.com/soumyaraii/DSA/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/soumyaraii/DSA/tree/master/0160-intersection-of-two-linked-lists) |
+| [0169-majority-element](https://github.com/soumyaraii/DSA/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/soumyaraii/DSA/tree/master/0202-happy-number) |
 | [0496-next-greater-element-i](https://github.com/soumyaraii/DSA/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/soumyaraii/DSA/tree/master/0560-subarray-sum-equals-k) |
@@ -231,6 +233,7 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/soumyaraii/DSA/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/soumyaraii/DSA/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/soumyaraii/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0475-heaters](https://github.com/soumyaraii/DSA/tree/master/0475-heaters) |
 | [0621-task-scheduler](https://github.com/soumyaraii/DSA/tree/master/0621-task-scheduler) |
@@ -352,6 +355,7 @@
 | [0023-merge-k-sorted-lists](https://github.com/soumyaraii/DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/soumyaraii/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/soumyaraii/DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0169-majority-element](https://github.com/soumyaraii/DSA/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/soumyaraii/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 ## Binary Search Tree
 |  |
@@ -382,6 +386,7 @@
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/soumyaraii/DSA/tree/master/0169-majority-element) |
 | [0621-task-scheduler](https://github.com/soumyaraii/DSA/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/soumyaraii/DSA/tree/master/0692-top-k-frequent-words) |
 ## Greedy
@@ -397,4 +402,8 @@
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/soumyaraii/DSA/tree/master/0287-find-the-duplicate-number) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/soumyaraii/DSA/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
