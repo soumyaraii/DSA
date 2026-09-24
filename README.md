@@ -12,6 +12,7 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/soumyaraii/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/soumyaraii/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/soumyaraii/DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0134-gas-station](https://github.com/soumyaraii/DSA/tree/master/0134-gas-station) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/soumyaraii/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/soumyaraii/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/soumyaraii/DSA/tree/master/0162-find-peak-element) |
@@ -396,6 +397,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0134-gas-station](https://github.com/soumyaraii/DSA/tree/master/0134-gas-station) |
 | [0621-task-scheduler](https://github.com/soumyaraii/DSA/tree/master/0621-task-scheduler) |
 ## Floyd's Cycle Finding Algorithm
 |  |
