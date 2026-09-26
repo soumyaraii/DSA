@@ -14,6 +14,7 @@
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/soumyaraii/DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0134-gas-station](https://github.com/soumyaraii/DSA/tree/master/0134-gas-station) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/soumyaraii/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0152-maximum-product-subarray](https://github.com/soumyaraii/DSA/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/soumyaraii/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/soumyaraii/DSA/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/soumyaraii/DSA/tree/master/0169-majority-element) |
@@ -352,6 +353,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/soumyaraii/DSA/tree/master/0042-trapping-rain-water) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/soumyaraii/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0152-maximum-product-subarray](https://github.com/soumyaraii/DSA/tree/master/0152-maximum-product-subarray) |
 | [0918-maximum-sum-circular-subarray](https://github.com/soumyaraii/DSA/tree/master/0918-maximum-sum-circular-subarray) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/soumyaraii/DSA/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 ## Bit Manipulation
