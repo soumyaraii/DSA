@@ -8,6 +8,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/soumyaraii/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0040-combination-sum-ii](https://github.com/soumyaraii/DSA/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/soumyaraii/DSA/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/soumyaraii/DSA/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/soumyaraii/DSA/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/soumyaraii/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/soumyaraii/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -352,6 +353,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/soumyaraii/DSA/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/soumyaraii/DSA/tree/master/0053-maximum-subarray) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/soumyaraii/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0152-maximum-product-subarray](https://github.com/soumyaraii/DSA/tree/master/0152-maximum-product-subarray) |
 | [0918-maximum-sum-circular-subarray](https://github.com/soumyaraii/DSA/tree/master/0918-maximum-sum-circular-subarray) |
@@ -365,6 +367,7 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/soumyaraii/DSA/tree/master/0023-merge-k-sorted-lists) |
+| [0053-maximum-subarray](https://github.com/soumyaraii/DSA/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/soumyaraii/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/soumyaraii/DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0169-majority-element](https://github.com/soumyaraii/DSA/tree/master/0169-majority-element) |
