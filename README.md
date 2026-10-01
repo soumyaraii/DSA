@@ -61,6 +61,7 @@
 | [0069-sqrtx](https://github.com/soumyaraii/DSA/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/soumyaraii/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/soumyaraii/DSA/tree/master/0202-happy-number) |
+| [0509-fibonacci-number](https://github.com/soumyaraii/DSA/tree/master/0509-fibonacci-number) |
 ## Binary Search
 |  |
 | ------- |
@@ -110,6 +111,7 @@
 | [0206-reverse-linked-list](https://github.com/soumyaraii/DSA/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/soumyaraii/DSA/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/soumyaraii/DSA/tree/master/0394-decode-string) |
+| [0509-fibonacci-number](https://github.com/soumyaraii/DSA/tree/master/0509-fibonacci-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -375,6 +377,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/soumyaraii/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/soumyaraii/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0152-maximum-product-subarray](https://github.com/soumyaraii/DSA/tree/master/0152-maximum-product-subarray) |
+| [0509-fibonacci-number](https://github.com/soumyaraii/DSA/tree/master/0509-fibonacci-number) |
 | [0918-maximum-sum-circular-subarray](https://github.com/soumyaraii/DSA/tree/master/0918-maximum-sum-circular-subarray) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/soumyaraii/DSA/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 ## Bit Manipulation
@@ -461,4 +464,8 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/soumyaraii/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/soumyaraii/DSA/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
