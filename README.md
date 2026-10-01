@@ -135,6 +135,7 @@
 | [0169-majority-element](https://github.com/soumyaraii/DSA/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/soumyaraii/DSA/tree/master/0202-happy-number) |
 | [0229-majority-element-ii](https://github.com/soumyaraii/DSA/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/soumyaraii/DSA/tree/master/0242-valid-anagram) |
 | [0496-next-greater-element-i](https://github.com/soumyaraii/DSA/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/soumyaraii/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/soumyaraii/DSA/tree/master/0621-task-scheduler) |
@@ -215,6 +216,7 @@
 | [0020-valid-parentheses](https://github.com/soumyaraii/DSA/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/soumyaraii/DSA/tree/master/0071-simplify-path) |
 | [0125-valid-palindrome](https://github.com/soumyaraii/DSA/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/soumyaraii/DSA/tree/master/0242-valid-anagram) |
 | [0394-decode-string](https://github.com/soumyaraii/DSA/tree/master/0394-decode-string) |
 | [0692-top-k-frequent-words](https://github.com/soumyaraii/DSA/tree/master/0692-top-k-frequent-words) |
 | [0880-decoded-string-at-index](https://github.com/soumyaraii/DSA/tree/master/0880-decoded-string-at-index) |
@@ -246,6 +248,7 @@
 | [0169-majority-element](https://github.com/soumyaraii/DSA/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/soumyaraii/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/soumyaraii/DSA/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/soumyaraii/DSA/tree/master/0242-valid-anagram) |
 | [0475-heaters](https://github.com/soumyaraii/DSA/tree/master/0475-heaters) |
 | [0621-task-scheduler](https://github.com/soumyaraii/DSA/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/soumyaraii/DSA/tree/master/0692-top-k-frequent-words) |
