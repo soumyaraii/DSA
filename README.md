@@ -116,6 +116,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/soumyaraii/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/soumyaraii/DSA/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/soumyaraii/DSA/tree/master/0075-sort-colors) |
+| [0125-valid-palindrome](https://github.com/soumyaraii/DSA/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/soumyaraii/DSA/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/soumyaraii/DSA/tree/master/0143-reorder-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/soumyaraii/DSA/tree/master/0160-intersection-of-two-linked-lists) |
@@ -213,6 +214,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/soumyaraii/DSA/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/soumyaraii/DSA/tree/master/0071-simplify-path) |
+| [0125-valid-palindrome](https://github.com/soumyaraii/DSA/tree/master/0125-valid-palindrome) |
 | [0394-decode-string](https://github.com/soumyaraii/DSA/tree/master/0394-decode-string) |
 | [0692-top-k-frequent-words](https://github.com/soumyaraii/DSA/tree/master/0692-top-k-frequent-words) |
 | [0880-decoded-string-at-index](https://github.com/soumyaraii/DSA/tree/master/0880-decoded-string-at-index) |
