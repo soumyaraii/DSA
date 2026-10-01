@@ -115,6 +115,7 @@
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/soumyaraii/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/soumyaraii/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/soumyaraii/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/soumyaraii/DSA/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/soumyaraii/DSA/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/soumyaraii/DSA/tree/master/0125-valid-palindrome) |
@@ -219,6 +220,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/soumyaraii/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/soumyaraii/DSA/tree/master/0020-valid-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/soumyaraii/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/soumyaraii/DSA/tree/master/0049-group-anagrams) |
 | [0071-simplify-path](https://github.com/soumyaraii/DSA/tree/master/0071-simplify-path) |
 | [0125-valid-palindrome](https://github.com/soumyaraii/DSA/tree/master/0125-valid-palindrome) |
@@ -443,4 +445,20 @@
 | ------- |
 | [0169-majority-element](https://github.com/soumyaraii/DSA/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/soumyaraii/DSA/tree/master/0229-majority-element-ii) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/soumyaraii/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Z Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/soumyaraii/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/soumyaraii/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/soumyaraii/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
