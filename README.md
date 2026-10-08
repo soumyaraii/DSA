@@ -52,6 +52,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/soumyaraii/DSA/tree/master/0022-generate-parentheses) |
 | [0040-combination-sum-ii](https://github.com/soumyaraii/DSA/tree/master/0040-combination-sum-ii) |
 | [0216-combination-sum-iii](https://github.com/soumyaraii/DSA/tree/master/0216-combination-sum-iii) |
 ## Math
@@ -222,6 +223,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/soumyaraii/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/soumyaraii/DSA/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/soumyaraii/DSA/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/soumyaraii/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/soumyaraii/DSA/tree/master/0049-group-anagrams) |
 | [0071-simplify-path](https://github.com/soumyaraii/DSA/tree/master/0071-simplify-path) |
@@ -372,6 +374,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/soumyaraii/DSA/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/soumyaraii/DSA/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/soumyaraii/DSA/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/soumyaraii/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -468,4 +471,8 @@
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/soumyaraii/DSA/tree/master/0509-fibonacci-number) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/soumyaraii/DSA/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
