@@ -12,9 +12,6 @@ bool ans=false;
         if(n%3==0){
             isPowerOfThree(n/3);
         }
-        else{
-            return ans;
-        }
         return ans;
     }
 };
