@@ -62,6 +62,7 @@
 | [0069-sqrtx](https://github.com/soumyaraii/DSA/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/soumyaraii/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/soumyaraii/DSA/tree/master/0202-happy-number) |
+| [0326-power-of-three](https://github.com/soumyaraii/DSA/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/soumyaraii/DSA/tree/master/0509-fibonacci-number) |
 ## Binary Search
 |  |
@@ -111,6 +112,7 @@
 | [0203-remove-linked-list-elements](https://github.com/soumyaraii/DSA/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/soumyaraii/DSA/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/soumyaraii/DSA/tree/master/0234-palindrome-linked-list) |
+| [0326-power-of-three](https://github.com/soumyaraii/DSA/tree/master/0326-power-of-three) |
 | [0394-decode-string](https://github.com/soumyaraii/DSA/tree/master/0394-decode-string) |
 | [0509-fibonacci-number](https://github.com/soumyaraii/DSA/tree/master/0509-fibonacci-number) |
 ## Two Pointers
