@@ -62,6 +62,7 @@
 | [0069-sqrtx](https://github.com/soumyaraii/DSA/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/soumyaraii/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/soumyaraii/DSA/tree/master/0202-happy-number) |
+| [0258-add-digits](https://github.com/soumyaraii/DSA/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/soumyaraii/DSA/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/soumyaraii/DSA/tree/master/0509-fibonacci-number) |
 ## Binary Search
@@ -243,6 +244,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/soumyaraii/DSA/tree/master/0258-add-digits) |
 | [0682-baseball-game](https://github.com/soumyaraii/DSA/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/soumyaraii/DSA/tree/master/0735-asteroid-collision) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/soumyaraii/DSA/tree/master/0950-reveal-cards-in-increasing-order) |
@@ -479,4 +481,8 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/soumyaraii/DSA/tree/master/0022-generate-parentheses) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/soumyaraii/DSA/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
