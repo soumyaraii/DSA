@@ -14,18 +14,23 @@ public:
         if(head==NULL or head->next==NULL){
             return head;
         }
-        ListNode* odd=head;
-        ListNode* even=head->next;
-        ListNode* evenHead = even;
-
-        while(even!=nullptr and even->next!=nullptr){
-            odd->next=even->next;
-            odd=odd->next;
-            even->next=odd->next;
-            even=even->next;
+        ListNode* oddhead=head;
+        ListNode* evenhead=head->next;
+        ListNode* newhead=evenhead;
+        while(oddhead->next!=NULL and evenhead->next!=NULL){
+            oddhead->next=oddhead->next->next;
+            evenhead->next=evenhead->next->next;
+            if(oddhead->next==NULL){
+                break;
+            }
+            oddhead=oddhead->next;
+            if(evenhead->next==NULL){
+                break;
+            }
+            evenhead=evenhead->next;
         }
-        odd->next=evenHead;
-
+        evenhead->next=NULL;
+        oddhead->next=newhead;
         return head;
     }
 };
