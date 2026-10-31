@@ -92,6 +92,7 @@
 | [0092-reverse-linked-list-ii](https://github.com/soumyaraii/DSA/tree/master/0092-reverse-linked-list-ii) |
 | [0141-linked-list-cycle](https://github.com/soumyaraii/DSA/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/soumyaraii/DSA/tree/master/0143-reorder-list) |
+| [0148-sort-list](https://github.com/soumyaraii/DSA/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/soumyaraii/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/soumyaraii/DSA/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/soumyaraii/DSA/tree/master/0206-reverse-linked-list) |
@@ -130,6 +131,7 @@
 | [0125-valid-palindrome](https://github.com/soumyaraii/DSA/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/soumyaraii/DSA/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/soumyaraii/DSA/tree/master/0143-reorder-list) |
+| [0148-sort-list](https://github.com/soumyaraii/DSA/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/soumyaraii/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/soumyaraii/DSA/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/soumyaraii/DSA/tree/master/0234-palindrome-linked-list) |
@@ -269,6 +271,7 @@
 | ------- |
 | [0049-group-anagrams](https://github.com/soumyaraii/DSA/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/soumyaraii/DSA/tree/master/0075-sort-colors) |
+| [0148-sort-list](https://github.com/soumyaraii/DSA/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/soumyaraii/DSA/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/soumyaraii/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/soumyaraii/DSA/tree/master/0229-majority-element-ii) |
@@ -405,6 +408,7 @@
 | [0053-maximum-subarray](https://github.com/soumyaraii/DSA/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/soumyaraii/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/soumyaraii/DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0148-sort-list](https://github.com/soumyaraii/DSA/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/soumyaraii/DSA/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/soumyaraii/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0918-maximum-sum-circular-subarray](https://github.com/soumyaraii/DSA/tree/master/0918-maximum-sum-circular-subarray) |
@@ -422,6 +426,7 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/soumyaraii/DSA/tree/master/0023-merge-k-sorted-lists) |
+| [0148-sort-list](https://github.com/soumyaraii/DSA/tree/master/0148-sort-list) |
 ## Tournament Sort
 |  |
 | ------- |
