@@ -1,28 +1,40 @@
 class Solution {
 public:
     string removeKdigits(string num, int k) {
-        string st;
-        int count=0;
-        string ans=" ";
-        for(char ch: num){
-            while (!st.empty() && k > 0 && st.back() > ch) {
-                st.pop_back();
+        stack<char> s;
+        for(char ch:num){
+            // int n=ch-'0';
+            while(!s.empty() and s.top()>ch and k>0){
+                s.pop();
                 k--;
             }
-            st.push_back(ch);
+            s.push(ch);
         }
-        while (k > 0 && !st.empty()) {
-            st.pop_back();
+
+        while(k>0 and !s.empty()){
+            s.pop();
             k--;
         }
-        
-        // Remove leading zeros
-        int nonZeroIdx = 0;
-        while (nonZeroIdx < st.length() && st[nonZeroIdx] == '0') {
-            nonZeroIdx++;
+
+        string result;
+        while (!s.empty()) {
+            result += s.top();
+            s.pop();
+        }
+        reverse(result.begin(), result.end());
+
+        // int ans=stoi(result);
+        // result=to_string(ans);
+        // return result;
+        size_t pos = result.find_first_not_of('0');
+    
+        // 2. If the string contains only zeros, return a single "0"
+        if (pos == string::npos) {
+            return "0";
         }
         
-        string result = st.substr(nonZeroIdx);
-        return result.empty() ? "0" : result;
+        // 3. Delete everything from index 0 up to the first non-zero character
+        return result.substr(pos);
+
     }
 };
