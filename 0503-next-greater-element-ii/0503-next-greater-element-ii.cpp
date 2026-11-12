@@ -33,12 +33,16 @@ public:
         //     }
         // }
 
-        // nums[nums.size()-1]=INT_MAX;
+        // ans[nums.size()-1]=-1;
         // while(!s.empty()){
-        //     if(s.top()>nums[nums.size()-1] and s.top()<nums[nums.size()-1]){
-        //         nums[nums.size()-1]=s.top();
+        //     if(s.top()>nums[nums.size()-1]){
+        //         ans[nums.size()-1]=s.top();
         //         s.pop();
         //     }
+        //     else{
+        //         s.pop();
+        //     }
+            
         // }
 
         // return ans;
