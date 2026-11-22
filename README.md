@@ -240,6 +240,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/soumyaraii/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/soumyaraii/DSA/tree/master/0049-group-anagrams) |
 | [0071-simplify-path](https://github.com/soumyaraii/DSA/tree/master/0071-simplify-path) |
+| [0072-edit-distance](https://github.com/soumyaraii/DSA/tree/master/0072-edit-distance) |
 | [0125-valid-palindrome](https://github.com/soumyaraii/DSA/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/soumyaraii/DSA/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/soumyaraii/DSA/tree/master/0344-reverse-string) |
@@ -396,6 +397,7 @@
 | [0022-generate-parentheses](https://github.com/soumyaraii/DSA/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/soumyaraii/DSA/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/soumyaraii/DSA/tree/master/0053-maximum-subarray) |
+| [0072-edit-distance](https://github.com/soumyaraii/DSA/tree/master/0072-edit-distance) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/soumyaraii/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/soumyaraii/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0152-maximum-product-subarray](https://github.com/soumyaraii/DSA/tree/master/0152-maximum-product-subarray) |
