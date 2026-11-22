@@ -49,13 +49,14 @@ public:
 
         // int n=str.length()-1;
         // int m=ptr.length()-1;
-        int n=str.length();
-        int m=ptr.length();
+        int n = str.length();
+        int m = ptr.length();
 
         memset(dp, -1, sizeof(dp));
         // int ans=rec(n,m);
 
         //iterative- shifting required
+        //base cases
         for(int i=0; i<=n; i++){
             dp[i][0]=i;
         }
@@ -64,24 +65,21 @@ public:
             dp[0][j]=j;
         }
 
-        if(n>0 or m>0){
         //we are converting s to t
-            for(int i=1; i<=n; i++){
-                for(int j=1; j<=m; j++){
-                    if(s[i-1]==t[j-1]){     //f(x-1)(y-1)=dp[x]
-                        dp[i][j]=dp[i-1][j-1];
-                    }
-                    else{
-                        //insertion- we use i since now we have to compare i and j-1 because i+1(inserted value)==j
-                        int op1=dp[i][j-1];
-                        //deletion 
-                        int op2=dp[i-1][j];
-                        int op3=dp[i-1][j-1];
-                        dp[i][j]=1+min(op1,min(op2, op3));
-                    }
+        for(int i=1; i<=n; i++){
+            for(int j=1; j<=m; j++){
+                if(s[i-1]==t[j-1]){     //f(x-1)(y-1)=dp[x][y]
+                    dp[i][j]=dp[i-1][j-1];
+                }
+                else{
+                    //insertion- we use i since now we have to compare i and j-1 because i+1(inserted value)==j
+                    int op1=dp[i][j-1];
+                    //deletion 
+                    int op2=dp[i-1][j];
+                    int op3=dp[i-1][j-1];
+                    dp[i][j]=1+min(op1,min(op2, op3));
                 }
             }
-            return dp[n][m];
         }
         return dp[n][m];
         // return ans;
