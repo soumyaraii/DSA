@@ -58,6 +58,7 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/soumyaraii/DSA/tree/master/0022-generate-parentheses) |
 | [0040-combination-sum-ii](https://github.com/soumyaraii/DSA/tree/master/0040-combination-sum-ii) |
+| [0052-n-queens-ii](https://github.com/soumyaraii/DSA/tree/master/0052-n-queens-ii) |
 | [0216-combination-sum-iii](https://github.com/soumyaraii/DSA/tree/master/0216-combination-sum-iii) |
 ## Math
 |  |
@@ -522,4 +523,8 @@
 |  |
 | ------- |
 | [0139-word-break](https://github.com/soumyaraii/DSA/tree/master/0139-word-break) |
+## Algorithm X
+|  |
+| ------- |
+| [0052-n-queens-ii](https://github.com/soumyaraii/DSA/tree/master/0052-n-queens-ii) |
 <!---LeetCode Topics End-->
