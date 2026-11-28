@@ -53,6 +53,7 @@
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/soumyaraii/DSA/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/soumyaraii/DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2073-time-needed-to-buy-tickets](https://github.com/soumyaraii/DSA/tree/master/2073-time-needed-to-buy-tickets) |
+| [2596-check-knight-tour-configuration](https://github.com/soumyaraii/DSA/tree/master/2596-check-knight-tour-configuration) |
 ## Backtracking
 |  |
 | ------- |
@@ -237,6 +238,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/soumyaraii/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/soumyaraii/DSA/tree/master/0662-maximum-width-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/soumyaraii/DSA/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [2596-check-knight-tour-configuration](https://github.com/soumyaraii/DSA/tree/master/2596-check-knight-tour-configuration) |
 ## String
 |  |
 | ------- |
@@ -270,6 +272,7 @@
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/soumyaraii/DSA/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2073-time-needed-to-buy-tickets](https://github.com/soumyaraii/DSA/tree/master/2073-time-needed-to-buy-tickets) |
 | [2390-removing-stars-from-a-string](https://github.com/soumyaraii/DSA/tree/master/2390-removing-stars-from-a-string) |
+| [2596-check-knight-tour-configuration](https://github.com/soumyaraii/DSA/tree/master/2596-check-knight-tour-configuration) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -399,6 +402,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/soumyaraii/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/soumyaraii/DSA/tree/master/0662-maximum-width-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/soumyaraii/DSA/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [2596-check-knight-tour-configuration](https://github.com/soumyaraii/DSA/tree/master/2596-check-knight-tour-configuration) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -527,4 +531,8 @@
 |  |
 | ------- |
 | [0052-n-queens-ii](https://github.com/soumyaraii/DSA/tree/master/0052-n-queens-ii) |
+## Matrix
+|  |
+| ------- |
+| [2596-check-knight-tour-configuration](https://github.com/soumyaraii/DSA/tree/master/2596-check-knight-tour-configuration) |
 <!---LeetCode Topics End-->
